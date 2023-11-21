@@ -1,5 +1,5 @@
 ## Jogo da memória
-
+<img src="game.gif"/>
 ### Tecnologias Utilizadas
 
 - HTML5 e CSS3 para a estrutura e aparência do jogo.
