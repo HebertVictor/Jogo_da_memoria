@@ -7,7 +7,7 @@
 
 ### Funcionalidades 
 
-- **Encontre os Pares**: Diversas cartas estão espalhadas aleatóriamente, o jogador clica em duas e caso sejam iguais permanecem viradas. Ache todos com sua memória e ganhe!
+- **Encontre os Pares**: Diversas cartas estão espalhadas aleatoriamente, o jogador clica em duas e caso sejam iguais permanecem viradas. Ache todos com sua memória e ganhe!
 
 ### Como Jogar
 
