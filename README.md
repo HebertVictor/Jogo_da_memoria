@@ -26,4 +26,4 @@ Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innov
 
 ---
 
-Lembre-se de conferir o repositório original [aqui]([https://github.com/digitalinnovationone/jsgame-detona-ralph](https://github.com/digitalinnovationone/js-emoji-memory-game)https://github.com/digitalinnovationone/js-emoji-memory-game) e deixar uma ⭐️ se você gostou do projeto!
+Lembre-se de conferir o repositório original [aqui](https://github.com/digitalinnovationone/js-emoji-memory-game) e deixar uma ⭐️ se você gostou do projeto!
